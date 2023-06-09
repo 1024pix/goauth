@@ -1,4 +1,4 @@
-module github.com/grokify/goauth
+module github.com/1024pix/goauth
 
 go 1.18
 
